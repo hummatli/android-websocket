@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trade Republic App</string>
+
+    <string name="action_close">Close</string>
+    <string name="generic_error_unknown">Unknown error</string>
+    <string name="stocks">Stocks</string>
+    <string name="price">%s €</string>
+</resources>
