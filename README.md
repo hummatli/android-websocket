@@ -1,7 +1,6 @@
-# trade-republic-android challenge
 
 #### About
-Sample application for Trade Republic's challenge. The app uses the simple WebSocket API, reads stock prices and shows them on the screen.
+The app uses the simple WebSocket API, reads stock prices and shows them on the screen.
 
 #### Structure
 The application is built with an MVVM pattern and uses the latest Android technology.
